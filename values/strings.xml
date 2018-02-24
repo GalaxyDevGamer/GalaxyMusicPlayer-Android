@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Galaxy Music</string>
+    <string name="Exit">Close Galaxy Music?</string>
+    <string name="Songs">Songs</string>
+    <string name="Playlists">Playlists</string>
+    <string name="NewPlaylist">New Playlist</string>
+    <string name="Albums">Albums</string>
+    <string name="Artists">Artists</string>
+    <string name="Setting">Setting</string>
+    <string name="PlaylistEmpty">No songs in playlist.</string>
+    <string name="Open">Open</string>
+    <string name="Add">Add</string>
+    <string name="Delete">Delete</string>
+    <string name="Done">Done</string>
+    <string name="Cancel">Cancel</string>
+    <string name="PlayListName">Playlist Name</string>
+    <string name="NameExists">That name is already used in Playlist</string>
+    <string name="Play">Play</string>
+    <string name="RenamePlaylist">Rename Playlist</string>
+    <string name="DeletePlaylist">Delete Playlist</string>
+    <string name="DeleteFromPlaylist">Delete from Playlist</string>
+    <string name="AddToPlaylist">Add to Playlist</string>
+    <string name="AddSuccess">Added Successfully</string>
+    <string name="UpNext">Up Next</string>
+    <string name="SongsAlreadyInPlaylist">The Song is already in the selected Playlist.</string>
+    <string name="Thumbnail">Thumbnail</string>
+</resources>

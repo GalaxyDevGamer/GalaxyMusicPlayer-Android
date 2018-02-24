@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- しろ -->
+    <color name="white">#FFFFFF</color>
+    <!-- くろ -->
+    <color name="black">#000000</color>
+    <!-- あお -->
+    <color name="blue">#0000FF</color>
+    <!-- あか -->
+    <color name="red">#FF0000</color>
+    <!-- きいろ -->
+    <color name="yellow">#FFFF00</color>
+    <!-- みどり -->
+    <color name="green">#00FF00</color>
+    <!-- むらさき -->
+    <color name="purple">#9900CC</color>
+    <!-- ピンク -->
+    <color name="pink">#FF00FF</color>
+    <!-- グレー -->
+    <color name="gray">#BEBEBE</color>
+    <!-- アイボリー -->
+    <color name="ivory">#EEEEE0</color>
+    <!-- オレンジ -->
+    <color name="orange">#FF9900</color>
+    <!-- 茶 -->
+    <color name="brown">#CC9900</color>
+    <!-- クリーム -->
+    <color name="cream">#FFFFCC</color>
+    <!-- 濃いめのグレー -->
+    <color name="lime">#00ff00</color>
+    <color name="lawngreen">#7cfc00</color>
+    <color name="dimgray">#696969</color>
+    <color name="darkgray">#a9a9a9</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="lightgray">#d3d3d3</color>
+    <color name="gainsboro">#dcdcdc</color>
+    <color name="whitesmoke">#f5f5f5</color>
+    <color name="snow">#fffafa</color>
+    <color name="forestgreen">#228b22</color>
+    <color name="ghostwhite">#f8f8ff</color>
+    <color name="floralwhite">#fffaf0</color>
+    <color name="linen">#faf0e6</color>
+    <color name="antiquewhite">#faebd7</color>
+    <color name="papayawhip">#ffefd5</color>
+    <color name="blanchedalmond">#ffebcd</color>
+    <color name="bisque">#ffe4c4</color>
+    <color name="moccasin">#ffe4b5</color>
+    <color name="navajowhite">#ffdead</color>
+    <color name="olive">#808000</color>
+    <color name="gold">#ffd700</color>
+    <color name="khaki">#f0e68c</color>
+    <color name="chocolate">#d2691e</color>
+    <color name="skyblue">#87ceeb</color>
+    <color name="navy">#000080</color>
+    <color name="darkred">#8b0000</color>
+    <color name="goldenrod">#daa520</color>
+    <color name="saddlebrown">#8b4513</color>
+    <color name="lightblue">#add8e6</color>
+    <color name="lightcyan">#e0ffff</color>
+    <color name="lightskyblue">#87cefa</color>
+    <color name="peru">#cd853f</color>
+    <color name="sienna">#a0522d</color>
+    <color name="cornsilk">#fff8dc</color>
+    <color name="lightyellow">#ffffe0</color>
+    <color name="fuchsia">#ff00ff</color>
+    <color name="aqua">#00ffff</color>
+</resources>
