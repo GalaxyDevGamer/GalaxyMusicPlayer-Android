@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/NewPlaylistLayout">
+
+    <ImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:contentDescription="@string/NewPlaylist"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:background="@color/white"
+        android:src="@mipmap/ic_add_black_48dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:padding="5dp"
+        android:text="@string/NewPlaylist"
+        android:textSize="25sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+</LinearLayout>

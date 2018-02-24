@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/SongMenu"
+        android:icon="@mipmap/ic_library_music_black_48dp"
+        android:title="@string/Songs" />
+    <item
+        android:id="@+id/PlaylistMenu"
+        android:icon="@mipmap/ic_featured_play_list_black_48dp"
+        android:title="@string/Playlists" />
+    <item
+        android:id="@+id/AlbumMenu"
+        android:icon="@mipmap/ic_album_black_48dp"
+        android:title="@string/Albums"/>
+    <item
+        android:id="@+id/ArtistMenu"
+        android:icon="@mipmap/ic_recent_actors_black_48dp"
+        android:title="@string/Artists" />
+</menu>

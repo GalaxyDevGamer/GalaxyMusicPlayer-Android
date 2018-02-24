@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp">
+
+    <ImageView
+        android:id="@+id/PLThumbnail"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="30dp"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/ic_music_video_black_48dp"
+        android:contentDescription="@string/Thumbnail"/>
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/PLThumbnail"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="20dp"/>
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <CheckedTextView
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textColor="#000000"
+        android:drawableStart="@mipmap/ic_music_video_black_48dp"
+        android:checkMark="@mipmap/ic_done_black_48dp"
+        android:checked="false"
+        android:gravity="center_vertical" />
+
+</RelativeLayout>
